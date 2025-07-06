@@ -44,9 +44,6 @@ sky:
     user-secret-key: itcast
     user-ttl: 720000000
     user-token-name: authentication
-  wechat:
-    appid: wxb7f57c9379a5f959
-    secret: 45a61dac94738c871ef7a767ee6b774f
   alioss:
     access-key-id: ${sky.alioss.access-key-id}
     access-key-secret: ${sky.alioss.access-key-secret}

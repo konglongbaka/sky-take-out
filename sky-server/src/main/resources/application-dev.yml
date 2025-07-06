@@ -6,11 +6,6 @@ sky:
     database: sky_take_out
     username: root
     password: 123456
-  alioss:
-    access-key-id: LTAI5tK9cD6Jkogo5m4VGeW8
-    access-key-secret: ass4PT0hb3GAUPgB3N8DPt6d8MemEO
-    bucket-name: java-tx1201
-    endpoint: oss-cn-beijing.aliyuncs.com
 spring:
   jackson:
     date-format: yyyy-MM-dd HH:mm
